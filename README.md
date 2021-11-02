@@ -7,5 +7,5 @@ neoCat (Chomusuke):
 
 neoMegu (Megumin):
   ```bash
-  neofetch --ascii neoMegu.txt --ascii_colors 1 2 3 4 15 6
+  neofetch --ascii neoMegu.txt --ascii_colors 1 2 101 4 15 6
   
